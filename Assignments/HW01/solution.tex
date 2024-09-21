@@ -1,24 +1,18 @@
 % !TeX program = xelatex
 \input{template/packages}
 \usepackage{template/template}
-\newcommand{\hidesolutions}{}
-
 
 \begin{document}
 	\def\ci{\perp\!\!\!\perp}
-	\begin{center}
-		\textbf{به نام خدا}
-	\end{center}
-	
-	
 
 	% header{<Assignment-Number>}{<Assignment-Title>}{<Deadline-Date>}{<Gathered-by>}{<Supervised-by>}
-	\header
-		{تمرین اول}{موضوع}{۱۰ مهر}{}{}
+	\header{\small
+		پاسخ تمرین چهارم، بخش اول
+	}{موضوع}{-}{}{}
 	\input{template/info}
 
 	% partheader{<Part-Name>}{<Part-Total-Score>}
-	\partheader{سوالات نظری}{140}
+	\partheader{سوالات}{90}
 	\begin{enumerate}
 		% question{<Question-TexFile-Path>}{<Question-Score>}
 		\question{questions/th1}{25}
@@ -28,4 +22,5 @@
 		\question{questions/th3}{20}
 		\solution{solution/th3}{}
 	\end{enumerate}
+
 \end{document}
