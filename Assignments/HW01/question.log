@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  21 SEP 2024 09:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  21 SEP 2024 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1515,39 +1515,39 @@ ne 2.
 (./template/template.sty) (./question.aux)
 \openout1 = `question.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count419
-Package hyperref Info: Link coloring ON on input line 7.
+Package hyperref Info: Link coloring ON on input line 8.
  (./question.out)
 (./question.out)
 \@outlinefile=\write4
@@ -1558,93 +1558,126 @@ Package hyperref Info: Link coloring ON on input line 7.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 7.
+ on input line 8.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 11.88007pt on input line 10.
+(Font)              scaled to size 11.88007pt on input line 11.
 File: template/logo/aut.png Graphic file (type bmp)
 <template/logo/aut.png>
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 7.92004pt on input line 17.
+(Font)              scaled to size 7.92004pt on input line 18.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 7.92004pt on input line 17.
+(Font)              scaled to size 7.92004pt on input line 18.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.84055pt on input line 17.
+(Font)              scaled to size 10.84055pt on input line 18.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.10728pt on input line 17.
+(Font)              scaled to size 17.10728pt on input line 18.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 17.10728pt on input line 17.
+(Font)              scaled to size 17.10728pt on input line 18.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 17.
+(Font)              scaled to size 10.95pt on input line 18.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 14.25607pt on input line 17.
+(Font)              scaled to size 14.25607pt on input line 18.
 (./template/info.tex
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 13
 .
  (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 12.
+(Font)              scaled to size 8.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 12.
+(Font)              scaled to size 6.0pt on input line 13.
 
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(2)/bx/n' undefined
-(Font)              using `TU/XBZar.ttf(2)/m/n' instead on input line 12.
+(Font)              using `TU/XBZar.ttf(2)/m/n' instead on input line 13.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 12.
+(Font)              scaled to size 8.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 6.0pt on input line 12.
+(Font)              scaled to size 6.0pt on input line 13.
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(2)/m/it' undefined
-(Font)              using `TU/XBZar.ttf(2)/m/n' instead on input line 12.
+(Font)              using `TU/XBZar.ttf(2)/m/n' instead on input line 13.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 12.
+(Font)              scaled to size 8.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 12.
+(Font)              scaled to size 6.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 5.94003pt on input line 12.
+(Font)              scaled to size 5.94003pt on input line 13.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 10.84055pt on input line 19.
+(Font)              scaled to size 10.84055pt on input line 21.
 )
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 21.
+(Font)              scaled to size 14.4pt on input line 22.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 25.
 (./questions/th1.tex
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
 (Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 9.90005pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 7.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 5.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 5.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 6.93004pt on input line 1.
 ) (./questions/th2.tex) (./questions/th3.tex) [1
 
 ]
-(./question.aux)
+(./questions/th4.tex) (./questions/th5.tex
+Missing character: There is no ′ ("2032) in font cmr12!
+) (./questions/th6.tex
+File: fig/Q3.pdf Graphic file (type pdf)
+<use fig/Q3.pdf>
+File: fig/Q6.pdf Graphic file (type pdf)
+<use fig/Q6.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [2] [3] (./question.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1657,12 +1690,12 @@ Package rerunfilecheck Info: File `question.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43653 strings out of 474878
- 1037966 string characters out of 5762517
- 1929627 words of memory out of 5000000
- 64857 multiletter control sequences out of 15000+600000
- 566458 words of font info for 104 fonts, out of 8000000 for 9000
+ 43762 strings out of 474878
+ 1040502 string characters out of 5762517
+ 1936627 words of memory out of 5000000
+ 64940 multiletter control sequences out of 15000+600000
+ 569396 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,5n,110p,1221b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,8n,110p,1221b,606s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on question.pdf (1 page).
+Output written on question.pdf (3 pages).
