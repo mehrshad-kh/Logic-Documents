@@ -2,7 +2,7 @@
 
 \begin{enumerate}
 	\item 
-	عبارات زیر را تاحدامکان ساده کنید و درنهایت مدار آن را رسم کنید.
+	توابع زیر را تاحدامکان ساده کنید و درنهایت مدار آن را رسم کنید.
 	
 	\begin{latin}
 		\begin{enumerate}
@@ -10,7 +10,7 @@
 			
 			\item $F(A,B,C,D) = [A + (BCD)' ][ (AD)' + B(C' + A) ]$
 			
-			\item $F(A,B,C,D,E,F,G,H) = [ ((A + B)' . (C + D)' . (E + F)' . (G + H)' )' ]'$
+			\item $F(A,B,C,D,E,F,G,H) = [ (A + B)' . (C + D)' . (E + F)' . (G + H)' ]'$
 		\end{enumerate}
 	\end{latin}
 	
@@ -21,9 +21,9 @@
 		\begin{enumerate}
 			% \item $A + A'B = A + B$
 			
-			\item $XY + X' Z + YZ = XY + X' Z$
+			\item $A \oplus B = (A.B') + (A'.B)$
 			
-			\item $(X + Y) (X + Y') = X$
+			\item $(A \oplus B) . (C' + D) = (A . B' . C') + (B . A' . C') + ((A \oplus B) . D)$
 			
 			\item $ABC′ + AB'C + B'C'D + BCD = AB'C + ABC' + AD + BCD + B'C'D$
 		\end{enumerate}
@@ -31,7 +31,7 @@
 	
 	
 	\item 
-	عبارات (i) و (ii) را به‌فرم POS و عبارت (iii) را به‌فرم SOP بازنویسی کنید.
+	عبارات (i) و (ii) را به‌فرم \lr{POS} و عبارت (iii) را به‌فرم \lr{SOP} بازنویسی کنید.
 	\begin{latin}
 		\begin{enumerate}
 			\item $AB + CD (AB' + CD)$

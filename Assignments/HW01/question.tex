@@ -19,33 +19,49 @@
 	\input{template/info}
 
 	% partheader{<Part-Name>}{<Part-Total-Score>}
-	\partheader{سوالات اختیاری}{100}
-	
-	
-	\partheader{سوالات اجباری}{100}
+	\partheader{سوالات اختیاری}{40}
 	\begin{enumerate}
 		% question{<Question-TexFile-Path>}{<Question-Score>}
-		\question{questions/th1}{10}
-		\solution{solution/th1}{}
+		\question{questions/optional/optional_q1}{20}
+		\solution{solution/optional/optional_sol1}{}
 		
-		\question{questions/th2}{10}
-		\solution{solution/th2}{}
-		
-		\question{questions/th3}{10}
-		\solution{solution/th3}{}	
-		
-		\question{questions/th4}{20}
-		\solution{solution/th4}{}
-		
-		\question{questions/th5}{30}
-		\solution{solution/th5}{}
-		
-		\question{questions/th6}{20}
-		\solution{solution/th6}{}
+		\question{questions/optional/optional_q2}{20}
+		\solution{solution/optional_sol2}{}
 	\end{enumerate}
 	
 	
 	
+	\partheader{سوالات اصلی}{220}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/basic/basic_q1}{20}
+		\solution{solution/basic/basic_sol1}{}
+		
+		\question{questions/basic/basic_q2}{30}
+		\solution{solution/basic/basic_sol2}{}
+		
+		\question{questions/basic/basic_q3}{40}
+		\solution{solution/basic/basic_sol3}{}
+		
+		\question{questions/basic/basic_q4}{90}
+		\solution{solution/basic/basic_sol4}{}
+		
+		\question{questions/basic/basic_q5}{20}
+		\solution{solution/basic/basic_sol5}{}
+		
+		\question{questions/basic/basic_q6}{20}
+		\solution{solution/basic/basic_sol6}{}
+		\newpage
+	\end{enumerate}
 	
-	\partheader{سوالات امتیازی}{100}
+	
+	
+	\partheader{سوالات امتیازی}{40}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/bonus/bonus_q1}{25}
+		\solution{solution/bonus/bonus_sol1}{}
+	\end{enumerate}
+	
+	
 \end{document}
