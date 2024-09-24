@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  23 SEP 2024 21:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  24 SEP 2024 08:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1627,9 +1627,6 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 10.84055pt on input line 21.
 )
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 22.
-
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 [][]
  []
@@ -1637,6 +1634,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 25.
 (./questions/optional/optional_q1.tex) (./questions/optional/optional_q2.tex)
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 34.
+
 Underfull \hbox (badness 10000) in paragraph at lines 34--34
 [][]
  []
@@ -1704,10 +1704,10 @@ Package rerunfilecheck Info: File `question.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43787 strings out of 474878
- 1042007 string characters out of 5762517
+ 43789 strings out of 474878
+ 1042029 string characters out of 5762517
  1938627 words of memory out of 5000000
- 64954 multiletter control sequences out of 15000+600000
+ 64956 multiletter control sequences out of 15000+600000
  569396 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,8n,110p,1221b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s

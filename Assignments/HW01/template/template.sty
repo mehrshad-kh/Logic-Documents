@@ -36,6 +36,12 @@
 	(#2 نمره)
 	\input{#1}
 }
+
+\newcommand{\questionop}[2]{
+	\item
+	\input{#1}
+}
+
 \newcommand{\solution}[2]{
 	\ifthenelse{\isundefined{\hidesolutions}}%
 	{\textcolor{blue}{
@@ -51,6 +57,15 @@
 	\vspace{0.5em}
 	{\large
 		#1 (#2 نمره)
+	}\\[-0.6em]
+	\hrule height .05em
+}
+
+\newcommand{\partheaderop}[2]{
+	\hrule height .12em
+	\vspace{0.5em}
+	{\large
+		#1
 	}\\[-0.6em]
 	\hrule height .05em
 }
