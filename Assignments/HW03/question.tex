@@ -1,0 +1,71 @@
+% !TeX program = xelatex
+\input{template/packages}
+\usepackage{template/template}
+
+\newcommand{\hidesolutions}{}
+
+
+\begin{document}
+	\def\ci{\perp\!\!\!\perp}
+	\begin{center}
+		\textbf{به نام خدا}
+	\end{center}
+	
+	
+
+	% header{<Assignment-Number>}{<Assignment-Title>}{<Deadline-Date>}{<Gathered-by>}{<Supervised-by>}
+	\header
+		{تمرین سوم}{مدار‌های ترکیبی و حسابی}{۱۵ آبان}{}{}
+	\input{template/info}
+
+	% partheader{<Part-Name>}{<Part-Total-Score>}
+	\partheaderop{سوالات اختیاری}{}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\questionop{questions/optional/optional_q1}{}
+		\solution{solution/optional/optional_sol1}{}
+		
+		\questionop{questions/optional/optional_q2}{}
+		\solution{solution/optional_sol2}{}
+	\end{enumerate}
+	
+	
+	
+	\partheader{سوالات اصلی}{220}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/basic/basic_q1}{20}
+		\solution{solution/basic/basic_sol1}{}
+		
+		\question{questions/basic/basic_q2}{30}
+		\solution{solution/basic/basic_sol2}{}
+		
+		\question{questions/basic/basic_q3}{40}
+		\solution{solution/basic/basic_sol3}{}
+		
+		\question{questions/basic/basic_q4}{90}
+		\solution{solution/basic/basic_sol4}{}
+		
+		\question{questions/basic/basic_q5}{20}
+		\newpage
+		\solution{solution/basic/basic_sol5}{}
+		
+		\question{questions/basic/basic_q6}{20}
+		\solution{solution/basic/basic_sol6}{}
+		
+		\question{questions/basic/basic_q7}{20}
+		\solution{solution/basic/basic_sol7}{}
+		\newpage
+	\end{enumerate}
+	
+	
+	
+	\partheader{سوالات امتیازی}{40}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/bonus/bonus_q1}{25}
+		\solution{solution/bonus/bonus_sol1}{}
+	\end{enumerate}
+	
+	
+\end{document}
