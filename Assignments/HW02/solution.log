@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  27 OCT 2024 22:38
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  28 OCT 2024 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2128,21 +2128,856 @@ Overfull \hbox (39.6991pt too wide) in paragraph at lines 74--97
 [][]$[]$  $[]$ []
  []
 
-[4])
+[4]
+File: fig/Q3_circ_new.pdf Graphic file (type pdf)
+<use fig/Q3_circ_new.pdf>
+)
 \endL or \endR problem (0 missing, 1 extra) in paragraph at lines 29--29
 [][][][] 
  []
 
-(./questions/basic/basic_q4.tex
+(./questions/basic/basic_q4.tex [5]
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 9
 .
 
 ) (./solution/basic/basic_sol4.tex) (./questions/basic/basic_q5.tex)
-(./solution/basic/basic_sol5.tex) (./questions/basic/basic_q6.tex [5])
-(./solution/basic/basic_sol6.tex) (./questions/basic/basic_q7.tex)
-(./solution/basic/basic_sol7.tex) [6]
+(./solution/basic/basic_sol5.tex
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count510
+\@karnaughmap@local@southeast@=\count511
+\@karnaughmap@local@northwest@=\count512
+\@karnaughmap@local@southeast@=\count513
+\@karnaughmap@local@northwest@=\count514
+\@karnaughmap@local@southeast@=\count515
+\@karnaughmap@local@testcaseone@=\count516
+\@karnaughmap@local@testcasetwo@=\count517
+\@karnaughmap@local@coordinateonecounter@=\count518
+\@karnaughmap@local@coordinatetwocounter@=\count519
+\@karnaughmap@local@coordinateonecounter@=\count520
+\@karnaughmap@local@coordinatetwocounter@=\count521
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count522
+\@karnaughmap@local@southeast@=\count523
+\@karnaughmap@local@northwest@=\count524
+\@karnaughmap@local@southeast@=\count525
+\@karnaughmap@local@northwest@=\count526
+\@karnaughmap@local@southeast@=\count527
+\@karnaughmap@local@testcaseone@=\count528
+\@karnaughmap@local@testcasetwo@=\count529
+\@karnaughmap@local@coordinateonecounter@=\count530
+\@karnaughmap@local@coordinatetwocounter@=\count531
+\@karnaughmap@local@coordinateonecounter@=\count532
+\@karnaughmap@local@coordinatetwocounter@=\count533
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.29913pt too wide) in paragraph at lines 25--51
+[][]$[]$  $[]$ []
+ []
+
+[6]
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count534
+\@karnaughmap@local@southeast@=\count535
+\@karnaughmap@local@northwest@=\count536
+\@karnaughmap@local@southeast@=\count537
+\@karnaughmap@local@northwest@=\count538
+\@karnaughmap@local@southeast@=\count539
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count540
+\@karnaughmap@local@southeast@=\count541
+\@karnaughmap@local@northwest@=\count542
+\@karnaughmap@local@southeast@=\count543
+\@karnaughmap@local@northwest@=\count544
+\@karnaughmap@local@southeast@=\count545
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.29913pt too wide) in paragraph at lines 58--82
+[][]$[]$  $[]$ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[][]
+ []
+
+[7]
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count546
+\@karnaughmap@local@southeast@=\count547
+\@karnaughmap@local@northwest@=\count548
+\@karnaughmap@local@southeast@=\count549
+\@karnaughmap@local@northwest@=\count550
+\@karnaughmap@local@southeast@=\count551
+\@karnaughmap@local@testcaseone@=\count552
+\@karnaughmap@local@testcasetwo@=\count553
+\@karnaughmap@local@coordinateonecounter@=\count554
+\@karnaughmap@local@coordinatetwocounter@=\count555
+\@karnaughmap@local@coordinateonecounter@=\count556
+\@karnaughmap@local@coordinatetwocounter@=\count557
+\@karnaughmap@local@testcaseone@=\count558
+\@karnaughmap@local@testcasetwo@=\count559
+\@karnaughmap@local@coordinateonecounter@=\count560
+\@karnaughmap@local@coordinatetwocounter@=\count561
+\@karnaughmap@local@coordinateonecounter@=\count562
+\@karnaughmap@local@coordinatetwocounter@=\count563
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 ^^I^^I\caption
+                    {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.164 ^^I^^I^^I\minterms{0,1,3,4,5,}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+\@karnaughmap@local@northwest@=\count564
+\@karnaughmap@local@southeast@=\count565
+\@karnaughmap@local@northwest@=\count566
+\@karnaughmap@local@southeast@=\count567
+\@karnaughmap@local@northwest@=\count568
+\@karnaughmap@local@southeast@=\count569
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.171 ^^I^^I\caption
+                    {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 35--35
+[][][][] 
+ []
+
+(./questions/basic/basic_q6.tex) (./solution/basic/basic_sol6.tex)
+(./questions/basic/basic_q7.tex) (./solution/basic/basic_sol7.tex) [8] [9]
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
 [][]
  []
@@ -2152,8 +2987,8 @@ File: fig/img4.png Graphic file (type bmp)
 <fig/img4.png>
 File: fig/img5.png Graphic file (type bmp)
 <fig/img5.png>
- [7]) (./solution/bonus/bonus_sol1.tex)
-(./questions/bonus/bonus_q2.tex) (./solution/bonus/bonus_sol2.tex) [8]
+ [10]) (./solution/bonus/bonus_sol1.tex)
+(./questions/bonus/bonus_q2.tex) (./solution/bonus/bonus_sol2.tex) [11]
 (./solution.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -2167,12 +3002,12 @@ Package rerunfilecheck Info: File `solution.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45929 strings out of 474878
- 1094218 string characters out of 5762517
- 1991627 words of memory out of 5000000
- 67041 multiletter control sequences out of 15000+600000
+ 46515 strings out of 474878
+ 1109601 string characters out of 5762517
+ 1993627 words of memory out of 5000000
+ 67626 multiletter control sequences out of 15000+600000
  569380 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,15n,110p,1221b,1442s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on solution.pdf (8 pages).
+Output written on solution.pdf (11 pages).

@@ -1,1 +1,185 @@
-متن سوال
+متن سوال ۴۵.۵ به‌صورت زیر است:
+
+\begin{latin}
+	5.45. Find the minimum sum of products for each function. Then, make the specified
+	minterm a don’t-care and verify that the minimum sum of products is unchanged.
+	Now, start again with the original expression and find each minterm which
+	could individually be made a don’t-care, without changing the minimum sum of
+	products.
+	
+	\begin{enumerate}
+		\item 
+		$F(A, B, C, D) = A'C' + A'B' + ACD' + BC'D, minterm 2$
+		
+		\item 
+		$F(A, B, C, D) = A'BD + AC'D + AB' + BCD + A'C'D, minterm 7$
+	\end{enumerate}
+\end{latin}
+
+
+برای قسمت \rl{(a)} مطابق با دو جدول کارنو زیر مشاهده می‌شود که اگر مینترم ۲ را به عنوان حالت \lr{Dont Care} درنظر بگیریم، تفاوتی در حاصل خروجی ایجاد نمی‌شود. در ادامه سوال گفته شده است که به‌ترتیب اگر هرکدام از مینترم‌های جدول را به عنوان \lr{DC} درنظر بگیریم، آیا حاصل تابع خروجی تغییر می‌کند یا خیر؟
+
+با بررسی تک به تک این حالات مشخص می‌شود که مینترم‌های ۴، ۱۳ و ۱۴ اگر به‌عنوان \lr{DC} درنظر گرفته شوند، حاصل تابع را تغییر می‌دهند و به ترتیب ترم‌های $A'C'$ و $BC'D$ یا $ACD'$ را به‌ترتیب حذف می‌کنند.
+
+\begin{latin}
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\begin{karnaugh-map}[4][4][1][$B$][$A$][$C$][$D$](label=corner)
+			\minterms{0,1,4,5,7,8,12,10,14,11}
+			\implicant{0}{5}
+			\implicant{5}{7}
+			\implicant{11}{10}
+			\implicantedge{12}{8}{14}{10}
+		\end{karnaugh-map}
+		\caption{K-Map 1}
+		$F=A'B'+A'C'+BC'D+ACD'$
+	\end{minipage}
+	\hfill
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\begin{karnaugh-map}[4][4][1][$B$][$A$][$D$][$C$](label=corner)
+			\minterms{0,1,4,5,7,12,10,14,11}
+			\indeterminants{8}
+			\implicant{0}{5}
+			\implicant{5}{7}
+			\implicant{11}{10}
+			\implicantedge{12}{8}{14}{10}
+		\end{karnaugh-map}
+		\caption{K-Map 1}
+		$F=A'B'+A'C'+BC'D+ACD'$
+	\end{minipage}	
+\end{latin}
+
+
+
+همچنین برای قسمت \rl{(b)} سوال نیز مطابق با قسمت قبل عمل می‌کنیم. 
+
+\begin{latin}
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\begin{karnaugh-map}[4][4][1][$B$][$A$][$D$][$C$](label=corner)
+			\minterms{2,6,10,14,4,5,7,13,15}
+			\implicant{2}{10}
+			\implicant{4}{6}
+			\implicant{5}{15}
+		\end{karnaugh-map}
+		\caption{K-Map 1}
+		$F=C'D+AB'+BD$
+	\end{minipage}
+	\hfill
+	\begin{minipage}{0.48\textwidth}
+		\centering
+		\begin{karnaugh-map}[4][4][1][$B$][$A$][$D$][$C$](label=corner)
+			\minterms{2,6,10,14,4,5,7,15}
+			\indeterminants{13}
+			\implicant{2}{10}
+			\implicant{4}{6}
+			\implicant{5}{15}
+		\end{karnaugh-map}
+		\caption{K-Map 1}
+		$F=C'D+AB'+BD$
+	\end{minipage}	
+\end{latin}
+ 
+ بنابراین با درنظر گرفتن مینترم شماره ۷ به‌عنوان جالت \lr{DC}، تابع خروجی تغییری نمیکند. همانند قسمت قبل این کار را برای سایر مینترم‌ها نیز تکرار می‌کنیم. فقط مینترم شماره ۱ است که حاصل خروجی را تغییر می‌دهد و ترم $C'D$ را حذف می‌کند. \\
+
+
+
+
+
+متن سوال ۵۰.۵ به‌صورت زیر است:
+
+\begin{latin}
+	5.50. Four of the minterms of an incompletely specified function $f(a, b, c, d)$ are $m_0$, $m_1$, $m_4$, and $m_5$.
+	
+	\begin{enumerate}
+		\item 
+		Specify additional minterms and don’t-cares for $f$ so that $f$ has five prime implicants with two literals and no other prime implicants and, in addition, $f$ has one prime implicate with one literal and two prime implicates with two literals
+		
+		\item 
+		For each prime implicant, give its algebraic representation and specify whether
+		it is an essential prime implicant.
+		
+		\item 
+		Determine all minimum sum-of-products expressions for $f$ .
+		
+		\item 
+		For each prime implicate, give its algebraic representation and specify whether
+		it is an essential prime implicate.
+		
+		\item 
+		Determine all minimum product-of-sums expressions for $f$ .
+	\end{enumerate}
+\end{latin}
+
+
+
+
+\begin{enumerate}
+	\item 
+	یکی از حالت‌هایی که شرایط گفته شده در این قسمت را رعایت می‌کند به‌صورت زیر است.
+	
+	\begin{latin}
+		\centering
+		\begin{karnaugh-map}[4][4][1][$b$][$a$][$d$][$c$](label=corner)
+			\minterms{0,1,4,5,3}
+			\maxterms{7,15,14,8,9}
+			\indeterminants{2,6,10,11,12,13}
+			\implicant{0}{5}
+			\implicant{4}{13}
+			\implicant{0}{2}
+			\implicantedge{3}{2}{11}{10}
+			\implicantedge{0}{4}{2}{6}
+		\end{karnaugh-map}
+		\caption{K-Map 1}
+		$f(a,b,c,d)=\sum m(0,1,4,5,12) + d(3,7,8,9,10,14)$
+	\end{latin}
+	
+	
+	\item
+	\begin{latin}
+		Nonessentials: $a'd, c'd', a'c', b'c', ad'$
+	\end{latin}
+	
+	
+	\item
+	\begin{latin}
+		\begin{itemize}
+			\item 
+			$f = a'd + c'd'$
+			
+			\item 
+			$f = a'c' + c'd'$
+			
+			\item 
+			$f = a'c' + ad'$
+		\end{itemize}
+	\end{latin}
+	
+	
+	\item 
+	\begin{latin}
+		\centering
+		\begin{karnaugh-map}[4][4][1][$b$][$a$][$d$][$c$](label=corner)
+			\minterms{0,1,3,4,5,}
+			\maxterms{7,15,14,8,9}
+			\indeterminants{2,6,10,12,13,11}
+			\implicant{12}{10}
+			\implicant{7}{14}
+			\implicant{2}{10}
+		\end{karnaugh-map}
+		\caption{K-Map 1}
+		Essentials: $c', a' + d'$ and Nonessential:$a' + b$
+	\end{latin}
+	
+	
+	\item 
+	\begin{latin}
+		$f=(c') \cdot (a'+d')$
+	\end{latin}
+	
+\end{enumerate}
+
+
+
+
