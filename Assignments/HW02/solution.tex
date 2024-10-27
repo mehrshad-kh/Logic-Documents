@@ -1,0 +1,59 @@
+% !TeX program = xelatex
+\input{template/packages}
+\usepackage{template/template}
+\usepackage{karnaugh-map}
+\usetikzlibrary{arrows, shapes.gates.logic.US, calc}
+\usepackage{subcaption}
+
+
+\begin{document}
+	\def\ci{\perp\!\!\!\perp}
+
+	% header{<Assignment-Number>}{<Assignment-Title>}{<Deadline-Date>}{<Gathered-by>}{<Supervised-by>}
+	\header{\small
+		پاسخ تمرین چهارم، بخش اول
+	}{موضوع}{-}{}{}
+	\input{template/info}
+
+	% partheader{<Part-Name>}{<Part-Total-Score>}
+	\partheader{سوالات اصلی}{90}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/basic/basic_q1}{10}
+		\solution{solution/basic/basic_sol1}{}
+		
+		\question{questions/basic/basic_q2}{10}
+		\solution{solution/basic/basic_sol2}{}
+		
+		\question{questions/basic/basic_q3}{15}
+		\solution{solution/basic/basic_sol3}{}
+		
+		\question{questions/basic/basic_q4}{20}
+		\solution{solution/basic/basic_sol4}{}
+		
+		\question{questions/basic/basic_q5}{15}
+		\solution{solution/basic/basic_sol5}{}
+		
+		\question{questions/basic/basic_q6}{10}
+		\solution{solution/basic/basic_sol6}{}
+		
+		\question{questions/basic/basic_q7}{10}
+		\solution{solution/basic/basic_sol7}{}
+		\newpage
+	\end{enumerate}
+	
+	
+	
+	\partheader{سوالات امتیازی}{40}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/bonus/bonus_q1}{25}
+		\solution{solution/bonus/bonus_sol1}{}
+		
+		\question{questions/bonus/bonus_q2}{15}
+		\solution{solution/bonus/bonus_sol2}{}
+	\end{enumerate}
+
+\end{document}
+
+
