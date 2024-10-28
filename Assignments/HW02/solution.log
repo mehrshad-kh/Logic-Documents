@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  28 OCT 2024 00:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  28 OCT 2024 23:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2142,8 +2142,7 @@ LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
 (Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 9
 .
 
-) (./solution/basic/basic_sol4.tex) (./questions/basic/basic_q5.tex)
-(./solution/basic/basic_sol5.tex
+) (./solution/basic/basic_sol4.tex [6]
 Missing character: There is no ( ("28) in font nullfont!
 Missing character: There is no l ("6C) in font nullfont!
 Missing character: There is no a ("61) in font nullfont!
@@ -2177,8 +2176,8 @@ See the caption package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.34 ^^I^^I\caption
-                   {K-Map 1}
+l.51 ^^I^^I^^I\caption
+                      {K-Map 1}
 If you do not understand this error, please take a closer look
 at the documentation of the `caption' package, especially the
 section about errors.
@@ -2203,14 +2202,18 @@ Missing character: There is no ) ("29) in font nullfont!
 \@karnaughmap@local@southeast@=\count523
 \@karnaughmap@local@northwest@=\count524
 \@karnaughmap@local@southeast@=\count525
-\@karnaughmap@local@northwest@=\count526
-\@karnaughmap@local@southeast@=\count527
-\@karnaughmap@local@testcaseone@=\count528
-\@karnaughmap@local@testcasetwo@=\count529
+\@karnaughmap@local@testcaseone@=\count526
+\@karnaughmap@local@testcasetwo@=\count527
+\@karnaughmap@local@coordinateonecounter@=\count528
+\@karnaughmap@local@coordinatetwocounter@=\count529
 \@karnaughmap@local@coordinateonecounter@=\count530
 \@karnaughmap@local@coordinatetwocounter@=\count531
-\@karnaughmap@local@coordinateonecounter@=\count532
-\@karnaughmap@local@coordinatetwocounter@=\count533
+\@karnaughmap@local@testcaseone@=\count532
+\@karnaughmap@local@testcasetwo@=\count533
+\@karnaughmap@local@coordinateonecounter@=\count534
+\@karnaughmap@local@coordinatetwocounter@=\count535
+\@karnaughmap@local@coordinateonecounter@=\count536
+\@karnaughmap@local@coordinatetwocounter@=\count537
 
 ! Package caption Error: \caption outside float.
 
@@ -2218,8 +2221,8 @@ See the caption package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48 ^^I^^I\caption
-                   {K-Map 1}
+l.64 ^^I^^I^^I\caption
+                      {K-Map 1}
 If you do not understand this error, please take a closer look
 at the documentation of the `caption' package, especially the
 section about errors.
@@ -2227,11 +2230,10 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (13.29913pt too wide) in paragraph at lines 25--51
+Overfull \hbox (39.6991pt too wide) in paragraph at lines 40--67
 [][]$[]$  $[]$ []
  []
 
-[6]
 Missing character: There is no ( ("28) in font nullfont!
 Missing character: There is no l ("6C) in font nullfont!
 Missing character: There is no a ("61) in font nullfont!
@@ -2246,41 +2248,8 @@ Missing character: There is no n ("6E) in font nullfont!
 Missing character: There is no e ("65) in font nullfont!
 Missing character: There is no r ("72) in font nullfont!
 Missing character: There is no ) ("29) in font nullfont!
-\@karnaughmap@local@northwest@=\count534
-\@karnaughmap@local@southeast@=\count535
-\@karnaughmap@local@northwest@=\count536
-\@karnaughmap@local@southeast@=\count537
 \@karnaughmap@local@northwest@=\count538
 \@karnaughmap@local@southeast@=\count539
-
-! Package caption Error: \caption outside float.
-
-See the caption package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.66 ^^I^^I\caption
-                   {K-Map 1}
-If you do not understand this error, please take a closer look
-at the documentation of the `caption' package, especially the
-section about errors.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no ( ("28) in font nullfont!
-Missing character: There is no l ("6C) in font nullfont!
-Missing character: There is no a ("61) in font nullfont!
-Missing character: There is no b ("62) in font nullfont!
-Missing character: There is no e ("65) in font nullfont!
-Missing character: There is no l ("6C) in font nullfont!
-Missing character: There is no = ("3D) in font nullfont!
-Missing character: There is no c ("63) in font nullfont!
-Missing character: There is no o ("6F) in font nullfont!
-Missing character: There is no r ("72) in font nullfont!
-Missing character: There is no n ("6E) in font nullfont!
-Missing character: There is no e ("65) in font nullfont!
-Missing character: There is no r ("72) in font nullfont!
-Missing character: There is no ) ("29) in font nullfont!
 \@karnaughmap@local@northwest@=\count540
 \@karnaughmap@local@southeast@=\count541
 \@karnaughmap@local@northwest@=\count542
@@ -2294,25 +2263,14 @@ See the caption package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.79 ^^I^^I\caption
-                   {K-Map 1}
+l.84 ^^I^^I^^I\caption
+                      {K-Map 1}
 If you do not understand this error, please take a closer look
 at the documentation of the `caption' package, especially the
 section about errors.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-
-Overfull \hbox (13.29913pt too wide) in paragraph at lines 58--82
-[][]$[]$  $[]$ []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-[][]
- []
-
-[7]
 Missing character: There is no ( ("28) in font nullfont!
 Missing character: There is no l ("6C) in font nullfont!
 Missing character: There is no a ("61) in font nullfont!
@@ -2352,6 +2310,367 @@ See the caption package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+l.99 ^^I^^I^^I\caption
+                      {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (39.6991pt too wide) in paragraph at lines 74--102
+[][]$[]$  $[]$ []
+ []
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count564
+\@karnaughmap@local@southeast@=\count565
+\@karnaughmap@local@northwest@=\count566
+\@karnaughmap@local@southeast@=\count567
+\@karnaughmap@local@northwest@=\count568
+\@karnaughmap@local@southeast@=\count569
+\@karnaughmap@local@northwest@=\count570
+\@karnaughmap@local@southeast@=\count571
+\@karnaughmap@local@northwest@=\count572
+\@karnaughmap@local@southeast@=\count573
+\@karnaughmap@local@northwest@=\count574
+\@karnaughmap@local@southeast@=\count575
+\@karnaughmap@local@testcaseone@=\count576
+\@karnaughmap@local@testcasetwo@=\count577
+\@karnaughmap@local@coordinateonecounter@=\count578
+\@karnaughmap@local@coordinatetwocounter@=\count579
+\@karnaughmap@local@coordinateonecounter@=\count580
+\@karnaughmap@local@coordinatetwocounter@=\count581
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 ^^I^^I^^I\caption
+                       {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count582
+\@karnaughmap@local@southeast@=\count583
+\@karnaughmap@local@northwest@=\count584
+\@karnaughmap@local@southeast@=\count585
+\@karnaughmap@local@northwest@=\count586
+\@karnaughmap@local@southeast@=\count587
+\@karnaughmap@local@northwest@=\count588
+\@karnaughmap@local@southeast@=\count589
+\@karnaughmap@local@testcaseone@=\count590
+\@karnaughmap@local@testcasetwo@=\count591
+\@karnaughmap@local@coordinateonecounter@=\count592
+\@karnaughmap@local@coordinatetwocounter@=\count593
+\@karnaughmap@local@coordinateonecounter@=\count594
+\@karnaughmap@local@coordinatetwocounter@=\count595
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 ^^I^^I^^I\caption
+                       {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (39.6991pt too wide) in paragraph at lines 110--140
+[][]$[]$  $[]$ []
+ []
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count596
+\@karnaughmap@local@southeast@=\count597
+\@karnaughmap@local@northwest@=\count598
+\@karnaughmap@local@southeast@=\count599
+\@karnaughmap@local@northwest@=\count600
+\@karnaughmap@local@southeast@=\count601
+\@karnaughmap@local@northwest@=\count602
+\@karnaughmap@local@southeast@=\count603
+\@karnaughmap@local@northwest@=\count604
+\@karnaughmap@local@southeast@=\count605
+\@karnaughmap@local@northwest@=\count606
+\@karnaughmap@local@southeast@=\count607
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ^^I^^I\caption
+                    {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[7])
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 32--32
+[][][][] 
+ []
+
+(./questions/basic/basic_q5.tex) (./solution/basic/basic_sol5.tex
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count608
+\@karnaughmap@local@southeast@=\count609
+\@karnaughmap@local@northwest@=\count610
+\@karnaughmap@local@southeast@=\count611
+\@karnaughmap@local@northwest@=\count612
+\@karnaughmap@local@southeast@=\count613
+\@karnaughmap@local@testcaseone@=\count614
+\@karnaughmap@local@testcasetwo@=\count615
+\@karnaughmap@local@coordinateonecounter@=\count616
+\@karnaughmap@local@coordinatetwocounter@=\count617
+\@karnaughmap@local@coordinateonecounter@=\count618
+\@karnaughmap@local@coordinatetwocounter@=\count619
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count620
+\@karnaughmap@local@southeast@=\count621
+\@karnaughmap@local@northwest@=\count622
+\@karnaughmap@local@southeast@=\count623
+\@karnaughmap@local@northwest@=\count624
+\@karnaughmap@local@southeast@=\count625
+\@karnaughmap@local@testcaseone@=\count626
+\@karnaughmap@local@testcasetwo@=\count627
+\@karnaughmap@local@coordinateonecounter@=\count628
+\@karnaughmap@local@coordinatetwocounter@=\count629
+\@karnaughmap@local@coordinateonecounter@=\count630
+\@karnaughmap@local@coordinatetwocounter@=\count631
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.29913pt too wide) in paragraph at lines 25--51
+[][]$[]$  $[]$ []
+ []
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count632
+\@karnaughmap@local@southeast@=\count633
+\@karnaughmap@local@northwest@=\count634
+\@karnaughmap@local@southeast@=\count635
+\@karnaughmap@local@northwest@=\count636
+\@karnaughmap@local@southeast@=\count637
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count638
+\@karnaughmap@local@southeast@=\count639
+\@karnaughmap@local@northwest@=\count640
+\@karnaughmap@local@southeast@=\count641
+\@karnaughmap@local@northwest@=\count642
+\@karnaughmap@local@southeast@=\count643
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.29913pt too wide) in paragraph at lines 58--82
+[][]$[]$  $[]$ []
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[][]
+ []
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count644
+\@karnaughmap@local@southeast@=\count645
+\@karnaughmap@local@northwest@=\count646
+\@karnaughmap@local@southeast@=\count647
+\@karnaughmap@local@northwest@=\count648
+\@karnaughmap@local@southeast@=\count649
+\@karnaughmap@local@testcaseone@=\count650
+\@karnaughmap@local@testcasetwo@=\count651
+\@karnaughmap@local@coordinateonecounter@=\count652
+\@karnaughmap@local@coordinatetwocounter@=\count653
+\@karnaughmap@local@coordinateonecounter@=\count654
+\@karnaughmap@local@coordinatetwocounter@=\count655
+\@karnaughmap@local@testcaseone@=\count656
+\@karnaughmap@local@testcasetwo@=\count657
+\@karnaughmap@local@coordinateonecounter@=\count658
+\@karnaughmap@local@coordinatetwocounter@=\count659
+\@karnaughmap@local@coordinateonecounter@=\count660
+\@karnaughmap@local@coordinatetwocounter@=\count661
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
 l.134 ^^I^^I\caption
                     {K-Map 1}
 If you do not understand this error, please take a closer look
@@ -2360,6 +2679,7 @@ section about errors.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+[9]
 Missing character: There is no ( ("28) in font nullfont!
 Missing character: There is no l ("6C) in font nullfont!
 Missing character: There is no a ("61) in font nullfont!
@@ -2950,12 +3270,12 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-\@karnaughmap@local@northwest@=\count564
-\@karnaughmap@local@southeast@=\count565
-\@karnaughmap@local@northwest@=\count566
-\@karnaughmap@local@southeast@=\count567
-\@karnaughmap@local@northwest@=\count568
-\@karnaughmap@local@southeast@=\count569
+\@karnaughmap@local@northwest@=\count662
+\@karnaughmap@local@southeast@=\count663
+\@karnaughmap@local@northwest@=\count664
+\@karnaughmap@local@southeast@=\count665
+\@karnaughmap@local@northwest@=\count666
+\@karnaughmap@local@southeast@=\count667
 
 ! Package caption Error: \caption outside float.
 
@@ -2977,7 +3297,7 @@ If that doesn't work, type  X <return>  to quit.
  []
 
 (./questions/basic/basic_q6.tex) (./solution/basic/basic_sol6.tex)
-(./questions/basic/basic_q7.tex) (./solution/basic/basic_sol7.tex) [8] [9]
+(./questions/basic/basic_q7.tex) (./solution/basic/basic_sol7.tex) [10]
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
 [][]
  []
@@ -2987,8 +3307,8 @@ File: fig/img4.png Graphic file (type bmp)
 <fig/img4.png>
 File: fig/img5.png Graphic file (type bmp)
 <fig/img5.png>
- [10]) (./solution/bonus/bonus_sol1.tex)
-(./questions/bonus/bonus_q2.tex) (./solution/bonus/bonus_sol2.tex) [11]
+ [11]) (./solution/bonus/bonus_sol1.tex)
+(./questions/bonus/bonus_q2.tex) (./solution/bonus/bonus_sol2.tex) [12]
 (./solution.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -3002,12 +3322,12 @@ Package rerunfilecheck Info: File `solution.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 46515 strings out of 474878
- 1109601 string characters out of 5762517
- 1993627 words of memory out of 5000000
- 67626 multiletter control sequences out of 15000+600000
+ 47189 strings out of 474878
+ 1127323 string characters out of 5762517
+ 2039627 words of memory out of 5000000
+ 68300 multiletter control sequences out of 15000+600000
  569380 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,15n,110p,1221b,1442s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,15n,110p,1221b,1459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on solution.pdf (11 pages).
+Output written on solution.pdf (12 pages).
