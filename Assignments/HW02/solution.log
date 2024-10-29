@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  28 OCT 2024 23:57
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  29 OCT 2024 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1537,7 +1537,11 @@ File: tikzlibraryshapes.gates.logic.US.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflib
 raryshapes.gates.logic.US.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflib
-raryshapes.gates.logic.code.tex))) (./solution.aux)
+raryshapes.gates.logic.code.tex))) (./solution.aux
+
+LaTeX Warning: Label `img7_b' multiply defined.
+
+)
 \openout1 = `solution.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -1551,8 +1555,7 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 9.
@@ -3296,8 +3299,145 @@ If that doesn't work, type  X <return>  to quit.
 [][][][] 
  []
 
-(./questions/basic/basic_q6.tex) (./solution/basic/basic_sol6.tex)
-(./questions/basic/basic_q7.tex) (./solution/basic/basic_sol7.tex) [10]
+(./questions/basic/basic_q6.tex) (./solution/basic/basic_sol6.tex
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count668
+\@karnaughmap@local@southeast@=\count669
+\@karnaughmap@local@northwest@=\count670
+\@karnaughmap@local@southeast@=\count671
+\@karnaughmap@local@northwest@=\count672
+\@karnaughmap@local@southeast@=\count673
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count674
+\@karnaughmap@local@southeast@=\count675
+\@karnaughmap@local@testcaseone@=\count676
+\@karnaughmap@local@testcasetwo@=\count677
+\@karnaughmap@local@coordinateonecounter@=\count678
+\@karnaughmap@local@coordinatetwocounter@=\count679
+\@karnaughmap@local@coordinateonecounter@=\count680
+\@karnaughmap@local@coordinatetwocounter@=\count681
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 ^^I^^I\caption
+                   {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.29913pt too wide) in paragraph at lines 15--43
+[][]$[]$  $[]$ []
+ []
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+\@karnaughmap@local@northwest@=\count682
+\@karnaughmap@local@southeast@=\count683
+\@karnaughmap@local@northwest@=\count684
+\@karnaughmap@local@southeast@=\count685
+\@karnaughmap@local@northwest@=\count686
+\@karnaughmap@local@southeast@=\count687
+\@karnaughmap@local@testcaseone@=\count688
+\@karnaughmap@local@testcasetwo@=\count689
+\@karnaughmap@local@coordinateonecounter@=\count690
+\@karnaughmap@local@coordinatetwocounter@=\count691
+\@karnaughmap@local@coordinateonecounter@=\count692
+\@karnaughmap@local@coordinatetwocounter@=\count693
+
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 ^^I\caption
+                {K-Map 1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[10])
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 38--38
+[][][][] 
+ []
+
+(./questions/basic/basic_q7.tex) (./solution/basic/basic_sol7.tex
+File: fig/Q7_a.pdf Graphic file (type pdf)
+<use fig/Q7_a.pdf>
+File: fig/Q7_b.pdf Graphic file (type pdf)
+<use fig/Q7_b.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 41--41
+[][][][] 
+ []
+
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
 [][]
  []
@@ -3305,11 +3445,72 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
 (./questions/bonus/bonus_q1.tex
 File: fig/img4.png Graphic file (type bmp)
 <fig/img4.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 File: fig/img5.png Graphic file (type bmp)
 <fig/img5.png>
- [11]) (./solution/bonus/bonus_sol1.tex)
-(./questions/bonus/bonus_q2.tex) (./solution/bonus/bonus_sol2.tex) [12]
-(./solution.aux)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [12] (./solution/bonus/bonus_sol1.tex
+File: fig/Q_bunos_1.pdf Graphic file (type pdf)
+<use fig/Q_bunos_1.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13] [14]
+File: fig/Q_bunos_circ.pdf Graphic file (type pdf)
+<use fig/Q_bunos_circ.pdf>
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 52--52
+[][][][] 
+ []
+
+(./questions/bonus/bonus_q2.tex) (./solution/bonus/bonus_sol2.tex [15]
+Overfull \hbox (56.18472pt too wide) detected at line 15
+\OT1/cmr/m/n/12 = (\OML/cmm/m/it/12 a[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\
+OT1/cmr/m/n/12 )(\OML/cmm/m/it/12 b[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT
+1/cmr/m/n/12 )(\OML/cmm/m/it/12 a[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT1/
+cmr/m/n/12 )(\OML/cmm/m/it/12 b[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT1/cm
+r/m/n/12 )(\OML/cmm/m/it/12 a[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT1/cmr/
+m/n/12 )(\OML/cmm/m/it/12 b[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT1/cmr/m/
+n/12 ) [] = (\OML/cmm/m/it/12 a[]b[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT1
+/cmr/m/n/12 )(\OML/cmm/m/it/12 a[]b[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\OT
+1/cmr/m/n/12 )(\OML/cmm/m/it/12 a[]b[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 M[]\O
+T1/cmr/m/n/12 ) []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[][]
+ []
+
+
+Overfull \hbox (14.96187pt too wide) detected at line 42
+\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 a[]m[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 b[
+]m[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 a[]m[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/
+12 b[]m[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 a[]m[] \OT1/cmr/m/n/12 + \OML/cmm/
+m/it/12 b[]m[] \OT1/cmr/m/n/12 + [] = (\OML/cmm/m/it/12 a[] \OT1/cmr/m/n/12 + \
+OML/cmm/m/it/12 b[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 m[] \OT1/cmr/m/n/12 + (\OM
+L/cmm/m/it/12 a[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 b[]\OT1/cmr/m/n/12 )\OML/c
+mm/m/it/12 m[] \OT1/cmr/m/n/12 + (\OML/cmm/m/it/12 a[] \OT1/cmr/m/n/12 + \OML/c
+mm/m/it/12 b[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 m[] \OT1/cmr/m/n/12 + []
+ []
+
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 55--55
+[][][][] 
+ []
+
+[16] (./solution.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -3318,16 +3519,19 @@ L3 programming layer <2024-01-22>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `solution.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 47189 strings out of 474878
- 1127323 string characters out of 5762517
+ 47696 strings out of 474878
+ 1139361 string characters out of 5762517
  2039627 words of memory out of 5000000
- 68300 multiletter control sequences out of 15000+600000
+ 68803 multiletter control sequences out of 15000+600000
  569380 words of font info for 125 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,15n,110p,1221b,1459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on solution.pdf (12 pages).
+Output written on solution.pdf (16 pages).
