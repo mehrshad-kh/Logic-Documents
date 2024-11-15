@@ -1,0 +1,81 @@
+% !TeX program = xelatex
+\input{template/packages}
+\usepackage{template/template}
+
+\newcommand{\hidesolutions}{}
+
+
+\begin{document}
+	\def\ci{\perp\!\!\!\perp}
+	\begin{center}
+		\textbf{به نام خدا}
+	\end{center}
+	
+	
+
+	% header{<Assignment-Number>}{<Assignment-Title>}{<Deadline-Date>}{<Gathered-by>}{<Supervised-by>}
+	\header
+		{تمرین سوم}{مدار‌های ترکیبی و حسابی}{۱۵ آبان}{}{}
+	\input{template/info}
+
+	% partheader{<Part-Name>}{<Part-Total-Score>}
+	\partheaderop{سوالات اختیاری}{}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\questionop{questions/optional/optional_q1}{}
+		\solution{solution/optional/optional_sol1}{}
+		
+		\questionop{questions/optional/optional_q2}{}
+		\solution{solution/optional_sol2}{}
+		
+		\questionop{questions/optional/optional_q3}{}
+		\solution{solution/optional_sol3}{}
+		
+		\questionop{questions/optional/optional_q4}{}
+	\end{enumerate}
+	
+	
+	
+	\partheader{سوالات اصلی}{345}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/basic/basic_q1}{40}
+		\solution{solution/basic/basic_sol1}{}
+		
+		\question{questions/basic/basic_q2}{25}
+		\solution{solution/basic/basic_sol2}{}
+		
+		\question{questions/basic/basic_q3}{20}
+		\solution{solution/basic/basic_sol3}{}
+		
+		\question{questions/basic/basic_q4}{30}
+		\solution{solution/basic/basic_sol4}{}
+		
+		\question{questions/basic/basic_q5}{40}
+		\newpage
+		
+		\question{questions/basic/basic_q6}{60}
+		\solution{solution/basic/basic_sol6}{}
+		
+		\question{questions/basic/basic_q7}{40}
+		\solution{solution/basic/basic_sol7}{}
+		
+		\question{questions/basic/basic_q8}{30}
+		
+		\question{questions/basic/basic_q9}{30}
+		
+		\question{questions/basic/basic_q10}{30}
+		\newpage
+	\end{enumerate}
+	
+	
+	
+	\partheader{سوالات امتیازی}{65}
+	\begin{enumerate}
+		% question{<Question-TexFile-Path>}{<Question-Score>}
+		\question{questions/bonus/bonus_q1}{25}
+		\solution{solution/bonus/bonus_sol1}{}
+	\end{enumerate}
+	
+	
+\end{document}
