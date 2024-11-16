@@ -1,25 +1,30 @@
-برای تابع داده شده، داده‌شده:
+%source: Farzaneh HW6-Q5
+
+
+درشکل زیر، دیاگرام حالت یک مدار که دارای ورودی تک بیتی و خروجی دو بیتی است رسم شده است:
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{fig/Q_basic8_.pdf}
+	\label{fig:Q_basic_8}
+\end{figure}
+
+
+
+با درنظر گرفتن جدول زیر، جدول حالت این مدار را رسم کنید.
 
 \begin{latin}
-	$f(a,b,c,d)=\sum m(1,3,4,5,10,11,14,15)$
-\end{latin}
-
-
-\begin{enumerate}
-	\item
-	ابتدا آن را به ساده‌ترین فرم \lr{SOP} بنویسید، سپس موج خروجی را به ازای گذار «صفحه بعد» رسم کنید. (تاخیر گیت های یک ورودی، دو ورودی و سه ورودی به‌ترتیب 3 و 4 و 5 نانوثانیه می‌باشد)
-	
-	
-	\begin{figure}[h]
+	\begin{table}[h!]
 		\centering
-		\includegraphics[width=1\textwidth]{fig/Q8.pdf}
-		\label{fig:Q8}
-		\caption{گذار سوال ۸}
-	\end{figure}
-	
-	
-	
-	
-	\item 
-	با ذکر دلیل تعیین کنید که آیا مدار گلیچ می گیرد یا خیر. 
-\end{enumerate}
+		\begin{tabular}{|c|c|c|c|}
+			\hline
+			\textbf{State} & \multicolumn{3}{|c|}{\textbf{Encoding}} \\ \hline
+			\textbf{Name} & $S_2$ & $S_1$ & $S_0$ \\ \hline
+			init          & 1     & 1     & 1     \\ \hline
+			mid           & 1     & 0     & 0     \\ \hline
+			zero          & 0     & 0     & 0     \\ \hline
+			one           & 0     & 0     & 1     \\ \hline
+			two           & 0     & 1     & 0     \\ \hline
+		\end{tabular}
+	\end{table}
+\end{latin}

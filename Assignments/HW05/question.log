@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  15 NOV 2024 23:01
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  16 NOV 2024 15:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1699,7 +1699,31 @@ File: fig/Q_basic6.pdf Graphic file (type pdf)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [3] [4] (./question.aux)
+) (./questions/basic/basic_q7.tex [3]) (./questions/basic/basic_q8.tex
+File: fig/Q_basic8_.pdf Graphic file (type pdf)
+<use fig/Q_basic8_.pdf>
+
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 2
+1.
+
+) (./questions/basic/basic_q9.tex [4]
+File: fig/Q_basic9.pdf Graphic file (type pdf)
+<use fig/Q_basic9.pdf>
+) (./questions/basic/basic_q10.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[][]
+ []
+
+(./questions/bonus/bonus_q1.tex
+File: fig/Q_basic7.pdf Graphic file (type pdf)
+<use fig/Q_basic7.pdf>
+) (./questions/bonus/bonus_q2.tex
+File: fig/Q_bunos_2.pdf Graphic file (type pdf)
+<use fig/Q_bunos_2.pdf>
+) [5]
+(./question.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1712,12 +1736,12 @@ Package rerunfilecheck Info: File `question.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43840 strings out of 474878
- 1042957 string characters out of 5762517
+ 43944 strings out of 474878
+ 1045820 string characters out of 5762517
  1931627 words of memory out of 5000000
- 65005 multiletter control sequences out of 15000+600000
+ 65086 multiletter control sequences out of 15000+600000
  569388 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,8n,110p,1221b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,9n,110p,1221b,640s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on question.pdf (4 pages).
+Output written on question.pdf (5 pages).
