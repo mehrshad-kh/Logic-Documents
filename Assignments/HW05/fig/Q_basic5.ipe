@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.28">
-<info created="D:20241115203601" modified="D:20241115204144"/>
+<info created="D:20241115203601" modified="D:20241118133637"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -390,9 +390,9 @@ h
 400 720 l
 400 688 l
 </path>
-<text matrix="1 0 0 1 -5.81258 1.01088" transformations="translations" pos="160 640" stroke="black" type="label" width="11.519" height="6.227" depth="0" valign="baseline" size="small">clk</text>
-<text matrix="1 0 0 1 90.0945 1.01084" transformations="translations" pos="160 640" stroke="black" type="label" width="11.519" height="6.227" depth="0" valign="baseline" size="small">clk</text>
-<text matrix="1 0 0 1 186.037 0.922304" transformations="translations" pos="160 640" stroke="black" type="label" width="11.519" height="6.227" depth="0" valign="baseline" size="small">clk</text>
+<text matrix="1 0 0 1 -5.68934 8.15874" transformations="translations" pos="160 640" stroke="black" type="label" width="11.519" height="6.227" depth="0" valign="baseline" size="small">clk</text>
+<text matrix="1 0 0 1 90.2177 8.1587" transformations="translations" pos="160 640" stroke="black" type="label" width="11.519" height="6.227" depth="0" valign="baseline" size="small">clk</text>
+<text matrix="1 0 0 1 186.16 8.07017" transformations="translations" pos="160 640" stroke="black" type="label" width="11.519" height="6.227" depth="0" valign="baseline" size="small">clk</text>
 <text matrix="1 0 0 1 100.268 -1.80576" transformations="translations" pos="176 688" stroke="black" type="label" width="7.168" height="6.13" depth="1.74" valign="baseline" size="small">Q</text>
 <text matrix="1 0 0 1 100.268 -1.80576" transformations="translations" pos="176 656" stroke="black" type="label" width="9.727" height="6.23" depth="1.74" valign="baseline" size="small">Q&apos;</text>
 <text matrix="1 0 0 1 -12.636 -2.90629" transformations="translations" pos="336 688" stroke="black" type="label" width="4.735" height="6.127" depth="0" valign="baseline" size="small">J</text>
@@ -402,5 +402,20 @@ h
 <text matrix="1 0 0 1 -2.95488 -0.8208" transformations="translations" pos="405.861 690.725" stroke="black" type="label" width="6.656" height="6.127" depth="0" valign="baseline" size="small">C</text>
 <text matrix="1 0 0 1 -2.43161 -2.62614" transformations="translations" pos="294.561 692.039" stroke="black" type="label" width="6.527" height="6.127" depth="0" valign="baseline" size="small">B</text>
 <text matrix="1 0 0 1 0.631802 -1.51633" transformations="translations" pos="195.322 691.382" stroke="black" type="label" width="6.656" height="6.127" depth="0" valign="baseline" size="small">C</text>
+<path stroke="black">
+157.139 640.004 m
+159.995 644.46 l
+162.98 640.004 l
+</path>
+<path matrix="1 0 0 1 96.0223 -0.0469247" stroke="black">
+157.139 640.004 m
+159.995 644.46 l
+162.98 640.004 l
+</path>
+<path matrix="1 0 0 1 192.013 -0.113269" stroke="black">
+157.139 640.004 m
+159.995 644.46 l
+162.98 640.004 l
+</path>
 </page>
 </ipe>

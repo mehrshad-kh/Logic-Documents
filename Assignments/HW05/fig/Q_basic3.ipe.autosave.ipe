@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.28">
-<info created="D:20241115184600" modified="D:20241118134640"/>
+<info created="D:20241115201625" modified="D:20241118131710"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -313,128 +313,88 @@ h
 <page>
 <layer name="alpha"/>
 <view layers="alpha" active="alpha"/>
-<path layer="alpha" matrix="1 0 0 1 -16.1569 -47.7516" stroke="black">
-272 704 m
-272 688 l
+<path layer="alpha" stroke="black">
+224 736 m
+224 688 l
+256 688 l
+256 736 l
+h
 </path>
-<path matrix="1 0 0 1 -16.1569 -47.7516" stroke="black">
-271.797 703.967 m
-281.235 703.966
-287.986 696.551
-280.312 687.984
-271.782 687.984 c
+<text matrix="1 0 0 1 1.95939 7.95281" transformations="translations" pos="224 720" stroke="black" type="label" width="3.736" height="3.386" depth="0" valign="baseline" size="tiny">S</text>
+<text matrix="1 0 0 1 1.67124 -8.87488" transformations="translations" pos="224 704" stroke="black" type="label" width="4.829" height="3.386" depth="0" valign="baseline" size="tiny">R</text>
+<path matrix="1 0 0 1 -87.7394 65.1777" stroke="black">
+272.03 671.988 m
+280.395 664.921
+271.934 656.075 c
 </path>
-<path matrix="1 0 0 1 -16.0337 -86.3254" stroke="black">
-272 704 m
-272 688 l
+<path matrix="1 0 0 1 -87.7394 65.1777" stroke="black">
+271.903 672.05 m
+281.97 672.06
+287.965 664.881 c
 </path>
-<path matrix="1 0 0 1 -16.0337 -86.3254" stroke="black">
-271.797 703.967 m
-281.235 703.966
-287.986 696.551
-280.312 687.984
-271.782 687.984 c
+<path matrix="1 0 0 1 -87.7394 65.1777" stroke="black">
+271.798 655.957 m
+281.706 656.025
+288.039 664.946 c
 </path>
-<path matrix="1 0 0 1 22.1704 -56.2551" stroke="black">
-272 704 m
-272 688 l
+<path matrix="1 0 0 1 -32.1887 124.892" stroke="black">
+215.315 611.798 m
+218.653 608.118
+219.257 605.621
+218.574 601.889
+217.181 599.129
+214.815 596.79 c
 </path>
-<path matrix="1 0 0 1 22.1704 -56.2551" stroke="black">
-271.797 703.967 m
-281.235 703.966
-287.986 696.551
-280.312 687.984
-271.782 687.984 c
+<use matrix="1 0 0 1 0.236546 0" name="mark/circle(sx)" pos="184.559 733.489" size="tiny" stroke="black"/>
+<path matrix="1 0 0 1 66.8245 65.7439" stroke="black">
+144.009 659.455 m
+147.934 659.455 l
+146.18 656.122 l
+h
 </path>
-<path matrix="1 0 0 1 22.2936 -78.3149" stroke="black">
-272 704 m
-272 688 l
-</path>
-<path matrix="1 0 0 1 22.2936 -78.3149" stroke="black">
-271.797 703.967 m
-281.235 703.966
-287.986 696.551
-280.312 687.984
-271.782 687.984 c
-</path>
-<use matrix="1 0 0 1 0.295968 0" name="mark/circle(sx)" pos="268.685 649.062" size="tiny" stroke="black"/>
-<use matrix="1 0 0 1 0.375191 -38.6137" name="mark/circle(sx)" pos="268.685 649.062" size="tiny" stroke="black"/>
-<use matrix="1 0 0 1 38.5426 -9.01039" name="mark/circle(sx)" pos="268.685 649.062" size="tiny" stroke="black"/>
-<use matrix="1 0 0 1 38.6413 -30.2411" name="mark/circle(sx)" pos="268.685 649.062" size="tiny" stroke="black"/>
-<path matrix="1 0 0 1 -58.4525 -10.4365" stroke="black">
-307.959 618.841 m
-314.598 618.841 l
-</path>
-<path matrix="1 0 0 1 -58.9695 29.6025" stroke="black">
-307.959 618.841 m
-314.598 618.841 l
+<use matrix="1 0 0 1 66.8545 65.7439" name="mark/circle(sx)" pos="146.163 655.465" size="tiny" stroke="black"/>
+<path stroke="black">
+200.194 730.039 m
+223.994 729.834 l
 </path>
 <path stroke="black">
-255.845 643.137 m
-249.183 643.093 l
-249.14 613.89 l
-255.845 613.847 l
+212.843 725.202 m
+212.773 729.942 l
 </path>
 <path stroke="black">
-249.156 628.069 m
-244.051 628.113 l
+213.067 720.621 m
+213.166 695.572 l
+223.984 695.428 l
 </path>
-<use name="mark/disk(sx)" pos="249.177 628.063" size="tiny" stroke="black"/>
-<text matrix="1 0 0 1 -3.75537 -8.8338" transformations="translations" pos="246.877 655.789" stroke="black" type="label" width="4.885" height="3.386" depth="0" valign="baseline" size="tiny">A</text>
-<text matrix="1 0 0 1 -14.6691 -3.80082" transformations="translations" pos="243.167 630.047" stroke="black" type="label" width="13.969" height="3.386" depth="0" valign="baseline" size="tiny">CLK</text>
-<text matrix="1 0 0 1 -4.91467 1.9306" transformations="translations" pos="249.125 605.035" stroke="black" type="label" width="4.656" height="3.386" depth="0" valign="baseline" size="tiny">B</text>
+<text matrix="1 0 0 1 -1.44231 -1.73078" transformations="translations" pos="251.622 730.327" stroke="black" type="label" width="5.12" height="3.395" depth="0.96" valign="baseline" size="tiny">Q</text>
+<text matrix="1 0 0 1 -3.94208 -34.9516" transformations="translations" pos="251.622 730.327" stroke="black" type="label" width="7.126" height="3.468" depth="0.96" valign="baseline" size="tiny">Q&apos;</text>
 <path stroke="black">
-269.625 649.184 m
-285.287 649.227 l
-285.373 645.939 l
-294.156 645.852 l
+256.016 730.777 m
+265.366 730.811 l
+265.366 730.811 l
 </path>
 <path stroke="black">
-269.643 610.405 m
-284.547 610.513 l
-284.379 614.335 l
-294.271 614.054 l
+256.028 696.493 m
+266.71 696.55 l
+266.881 678.12 l
+175.809 678.12 l
+175.984 725.525 l
+185.504 725.621 l
 </path>
 <path stroke="black">
-294.177 635.033 m
-285.352 634.999 l
-285.419 629.605 l
-310.12 624.826 l
-310.379 618.905 l
+184.244 733.449 m
+175.805 733.466 l
+</path>
+<text matrix="1 0 0 1 -10.0289 -0.444082" transformations="translations" pos="175.198 735.61" stroke="black" type="label" width="16.369" height="3.395" depth="0.96" valign="baseline" size="tiny">Input</text>
+<path stroke="black">
+224.076 716.628 m
+226.844 714.551 l
+224.076 712.388 l
 </path>
 <path stroke="black">
-294.318 622.087 m
-285.252 622.273 l
-285.104 626.232 l
-310.712 633.782 l
-310.527 639.999 l
+223.985 714.381 m
+205.17 714.381 l
 </path>
-<use name="mark/disk(sx)" pos="310.54 640.006" size="tiny" stroke="black"/>
-<use name="mark/disk(sx)" pos="310.456 618.858" size="tiny" stroke="black"/>
-<text matrix="1 0 0 1 9.3403 18.7799" transformations="translations" pos="313.578 620.08" stroke="black" type="label" width="4.885" height="3.386" depth="0" valign="baseline" size="tiny">X</text>
-<path stroke="black">
-314.03 639.937 m
-314.049 597.365 l
-248.843 597 l
-248.843 603.936 l
-255.935 603.931 l
-</path>
-<path stroke="black">
-307.908 618.796 m
-322.13 618.791 l
-</path>
-<path matrix="1 0 0 1 -0.0657891 21.2145" stroke="black">
-307.908 618.796 m
-322.13 618.791 l
-</path>
-<use name="mark/disk(sx)" pos="314.07 640.023" size="tiny" stroke="black"/>
-<text matrix="1 0 0 1 10.1527 -2.58119" transformations="translations" pos="313.578 620.08" stroke="black" type="label" width="4.885" height="3.386" depth="0" valign="baseline" size="tiny">Y</text>
-<path stroke="black">
-317.051 618.779 m
-316.84 657.677 l
-248.733 658.027 l
-248.844 653.142 l
-255.801 653.068 l
-</path>
+<text matrix="1 0 0 1 -13.1521 -4.11004" transformations="translations" pos="203.842 716.935" stroke="black" type="label" width="13.969" height="3.386" depth="0" valign="baseline" size="tiny">CLK</text>
 </page>
 </ipe>

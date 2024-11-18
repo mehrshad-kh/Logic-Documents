@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70218" creator="Ipe 7.2.28">
-<info created="D:20241115201625" modified="D:20241115202117"/>
+<info created="D:20241115201625" modified="D:20241118132958"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -345,7 +345,6 @@ h
 217.181 599.129
 214.815 596.79 c
 </path>
-<use matrix="1 0 0 1 0.236546 0" name="mark/circle(sx)" pos="184.559 733.489" size="tiny" stroke="black"/>
 <path matrix="1 0 0 1 66.8245 65.7439" stroke="black">
 144.009 659.455 m
 147.934 659.455 l
@@ -381,10 +380,21 @@ h
 175.984 725.525 l
 185.504 725.621 l
 </path>
-<path stroke="black">
+<path matrix="1 0 0 1 -0.674388 -0.626684" stroke="black">
 184.244 733.449 m
 175.805 733.466 l
 </path>
-<text matrix="1 0 0 1 -10.0289 -0.444082" transformations="translations" pos="175.198 735.61" stroke="black" type="label" width="16.369" height="3.395" depth="0.96" valign="baseline" size="tiny">Input</text>
+<text matrix="1 0 0 1 -10.7033 -1.07077" transformations="translations" pos="175.198 735.61" stroke="black" type="label" width="16.369" height="3.395" depth="0.96" valign="baseline" size="tiny">Input</text>
+<path stroke="black">
+224.076 716.628 m
+226.844 714.551 l
+224.076 712.388 l
+</path>
+<path stroke="black">
+223.985 714.381 m
+205.17 714.381 l
+</path>
+<text matrix="1 0 0 1 -13.1521 -4.11004" transformations="translations" pos="203.842 716.935" stroke="black" type="label" width="13.969" height="3.386" depth="0" valign="baseline" size="tiny">CLK</text>
+<use matrix="1 0 0 1 0.740626 -0.940026" name="mark/circle(sx)" pos="183.839 733.893" size="small" stroke="black"/>
 </page>
 </ipe>
