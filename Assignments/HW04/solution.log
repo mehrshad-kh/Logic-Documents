@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  3 DEC 2024 18:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  5 DEC 2024 09:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**question.tex
-(./question.tex
+**solution.tex
+(./solution.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (./template/packages.tex
@@ -1512,77 +1512,121 @@ LaTeX Font Info:    Overwriting symbol font `new@mathrm@font@digits' in version
 (Font)                  TU/XBZar.ttf(2)/m/n --> TU/XBZar.ttf(2)/m/n on input li
 ne 2.
 
-(./template/template.sty) (./question.aux)
-\openout1 = `question.aux'.
+(./template/template.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/karnaugh-map/karnaugh-map.sty
+Package: karnaugh-map 2022/01/15 v2.0 Draw Karnaugh Maps
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\xs_counta=\count419
+\xs_countb=\count420
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\@karnaughmap@var@colorindex@=\count421
+\@karnaughmap@var@colorindexnext@=\count422
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.gates.logic.US.code.tex
+File: tikzlibraryshapes.gates.logic.US.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflib
+raryshapes.gates.logic.US.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflib
+raryshapes.gates.logic.code.tex))) (./solution.aux
+
+LaTeX Warning: Label `Q6_Design' multiply defined.
+
+)
+\openout1 = `solution.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count419
-Package hyperref Info: Link coloring ON on input line 8.
- (./question.out)
-(./question.out)
+\c@lstlisting=\count423
+Package hyperref Info: Link coloring ON on input line 9.
+ (./solution.out)
+(./solution.out)
 \@outlinefile=\write4
-\openout4 = `question.out'.
+\openout4 = `solution.out'.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 8.
+ on input line 9.
 
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 11.88007pt on input line 11.
 File: template/logo/aut.png Graphic file (type bmp)
 <template/logo/aut.png>
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 7.92004pt on input line 18.
+(Font)              scaled to size 7.92004pt on input line 15.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 7.92004pt on input line 18.
+(Font)              scaled to size 7.92004pt on input line 15.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.84055pt on input line 18.
+(Font)              scaled to size 10.84055pt on input line 15.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.10728pt on input line 18.
+(Font)              scaled to size 17.10728pt on input line 15.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 17.10728pt on input line 18.
+(Font)              scaled to size 17.10728pt on input line 15.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 18.
+(Font)              scaled to size 10.95pt on input line 15.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 14.25607pt on input line 18.
+(Font)              scaled to size 14.25607pt on input line 15.
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‪ (U+202A) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font [./template/fonts/XB Zar.ttf]
+/OT:script=latn;language=dflt;script=arab;mapping=persian-tex-text;!
 (./template/info.tex
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 13
 .
@@ -1627,97 +1671,100 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 10.84055pt on input line 21.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
 [][]
  []
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 25.
-(./questions/optional/optional_q1.tex
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 9.90005pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 6.93004pt on input line 6.
-File: fig/Q_opt1.pdf Graphic file (type pdf)
-<use fig/Q_opt1.pdf>
-) (./questions/optional/optional_q2.tex
-[1
+(Font)              scaled to size 12.0pt on input line 22.
+(./questions/basic/basic_q1.tex) (./solution/basic/basic_sol1.tex)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 23--23
+[][][][] 
+ []
 
-]
-File: fig/Q_opt2.pdf Graphic file (type pdf)
-<use fig/Q_opt2.pdf>
-File: fig/Q_opt2_2.png Graphic file (type bmp)
-<fig/Q_opt2_2.png>
+(./questions/basic/basic_q2.tex) (./solution/basic/basic_sol2.tex
+File: fig/Q2.pdf Graphic file (type pdf)
+<use fig/Q2.pdf>
 )
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 34.
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 26--26
+[][][][] 
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--34
+(./questions/basic/basic_q3.tex) (./solution/basic/basic_sol3.tex
+File: fig/Q3.pdf Graphic file (type pdf)
+<use fig/Q3.pdf>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 29--29
+[][][][] 
+ []
+
+(./questions/basic/basic_q4.tex) [1
+
+] (./solution/basic/basic_sol4.tex
+File: fig/Q4.pdf Graphic file (type pdf)
+<use fig/Q4.pdf>
+)
+(./questions/basic/basic_q5.tex) (./solution/basic/basic_sol5.tex
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 1.
+ [2]
+File: fig/Q5.png Graphic file (type bmp)
+<fig/Q5.png>
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 35--35
+[][][][] 
+ []
+
+(./questions/basic/basic_q6.tex) (./solution/basic/basic_sol6.tex
+File: fig/Q6.png Graphic file (type bmp)
+<fig/Q6.png>
+ [3])
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 38--38
+[][][][] 
+ []
+
+(./questions/basic/basic_q7.tex) (./solution/basic/basic_sol7.tex
+File: fig/Q7.pdf Graphic file (type pdf)
+<use fig/Q7.pdf>
+)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 41--41
+[][][][] 
+ []
+
+(./questions/basic/basic_q8.tex) (./solution/basic/basic_sol8.tex)
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 44--44
+[][][][] 
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
 [][]
  []
 
-(./questions/basic/basic_q1.tex
-File: fig/Q_basic1.pdf Graphic file (type pdf)
-<use fig/Q_basic1.pdf>
-) (./questions/basic/basic_q2.tex [2]
-File: fig/Q_basic2.pdf Graphic file (type pdf)
-<use fig/Q_basic2.pdf>
+(./questions/bonus/bonus_q1.tex) (./solution/bonus/bonus_sol1.tex
+File: fig/Q8.pdf Graphic file (type pdf)
+<use fig/Q8.pdf>
+File: fig/QB1_2.png Graphic file (type bmp)
+<fig/QB1_2.png>
 )
-(./questions/basic/basic_q3.tex
-File: fig/Q_basic3.pdf Graphic file (type pdf)
-<use fig/Q_basic3.pdf>
-) (./questions/basic/basic_q4.tex)
-(./questions/basic/basic_q5.tex [3]
-File: fig/Q_basic5.pdf Graphic file (type pdf)
-<use fig/Q_basic5.pdf>
-) (./questions/basic/basic_q6.tex
-File: fig/Q_basic6.pdf Graphic file (type pdf)
-<use fig/Q_basic6.pdf>
-)
-(./questions/basic/basic_q7.tex) (./questions/basic/basic_q8.tex
-File: fig/Q_basic8_.pdf Graphic file (type pdf)
-<use fig/Q_basic8_.pdf>
-
-
-LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 2
-6.
-
-[4]) (./questions/basic/basic_q9.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[][]
+\endL or \endR problem (0 missing, 1 extra) in paragraph at lines 54--54
+[][][][] 
  []
 
-(./questions/bonus/bonus_q1.tex
-File: fig/Q_basic7.pdf Graphic file (type pdf)
-<use fig/Q_basic7.pdf>
-) (./questions/bonus/bonus_q2.tex
-File: fig/Q_bunos_2.pdf Graphic file (type pdf)
-<use fig/Q_bunos_2.pdf>
-) [5]
-(./question.aux)
+
+Package caption Warning: Unused \captionsetup[sub] on input line 7.
+See the caption package documentation for explanation.
+
+[5] (./solution.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1726,16 +1773,19 @@ L3 programming layer <2024-01-22>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `question.out' has not changed.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `solution.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43927 strings out of 474878
- 1045298 string characters out of 5762517
- 1933627 words of memory out of 5000000
- 65073 multiletter control sequences out of 15000+600000
- 569388 words of font info for 126 fonts, out of 8000000 for 9000
+ 44649 strings out of 474878
+ 1062721 string characters out of 5762517
+ 1935627 words of memory out of 5000000
+ 65766 multiletter control sequences out of 15000+600000
+ 567516 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,9n,110p,1221b,603s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,110p,1221b,633s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on question.pdf (5 pages).
+Output written on solution.pdf (5 pages).

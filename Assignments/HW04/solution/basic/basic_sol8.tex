@@ -1,0 +1,45 @@
+
+
+
+\begin{latin}
+	\begin{enumerate}
+		\item
+		\[ 
+		s_i = a_i \oplus b_i \oplus E_1'c_i \oplus E_1E_0a_ib_i 
+		\quad \text{and} \quad 
+		c_{i+1} = (E_0 \oplus a_i)b_i + (E_0 \oplus a_i)c_i + b_ic_i
+		\]
+		
+		
+		\[
+		\begin{array}{|c|c|c|c|}
+			\hline
+			E_1 & E_0 & s_i & c_{i+1} \\
+			\hline
+			0 & 0 & s_i = a_i \oplus b_i \oplus c_i & c_{i+1} = a_ib_i + a_ic_i + b_ic_i \\
+			0 & 1 & s_i = a_i \oplus b_i \oplus c_i & c_{i+1} = a_i'b_i + a_i'c_i + b_ic_i \\
+			1 & 0 & s_i = a_i \oplus b_i & c_{i+1} = a_ib_i + a_ic_i + b_ic_i \\
+			1 & 1 & s_i = a_i \oplus b_i \oplus a_ib_i & c_{i+1} = a_i'b_i + a_i'c_i + b_ic_i \\
+			\hline
+		\end{array}
+		\]
+		
+		
+		
+		
+		
+		\item 
+		\[
+		\begin{array}{|c|c|c|}
+			\hline
+			E_1 & E_0 & \text{Function} \\
+			\hline
+			0 & 0 & \text{Add (A + B)} \\
+			0 & 1 & \text{Sub (A - B)} \\
+			1 & 0 & \text{XOR (A $\oplus$ B)} \\
+			1 & 1 & \text{OR (A + B)} \\
+			\hline
+		\end{array}
+		\]
+	\end{enumerate}
+\end{latin}

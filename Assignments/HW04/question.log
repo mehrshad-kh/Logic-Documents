@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  3 DEC 2024 18:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2024.5.4)  27 OCT 2024 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1627,50 +1627,6 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 10.84055pt on input line 21.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 22--22
-[][]
- []
-
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 25.
-(./questions/optional/optional_q1.tex
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 9.90005pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
-(Font)              scaled to size 5.0pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 6.93004pt on input line 6.
-File: fig/Q_opt1.pdf Graphic file (type pdf)
-<use fig/Q_opt1.pdf>
-) (./questions/optional/optional_q2.tex
-[1
-
-]
-File: fig/Q_opt2.pdf Graphic file (type pdf)
-<use fig/Q_opt2.pdf>
-File: fig/Q_opt2_2.png Graphic file (type bmp)
-<fig/Q_opt2_2.png>
-)
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 34.
 
@@ -1678,45 +1634,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 [][]
  []
 
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
 (./questions/basic/basic_q1.tex
-File: fig/Q_basic1.pdf Graphic file (type pdf)
-<use fig/Q_basic1.pdf>
-) (./questions/basic/basic_q2.tex [2]
-File: fig/Q_basic2.pdf Graphic file (type pdf)
-<use fig/Q_basic2.pdf>
+File: fig/img1.png Graphic file (type bmp)
+<fig/img1.png>
+) (./questions/basic/basic_q2.tex
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 6.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 6.
 )
 (./questions/basic/basic_q3.tex
-File: fig/Q_basic3.pdf Graphic file (type pdf)
-<use fig/Q_basic3.pdf>
-) (./questions/basic/basic_q4.tex)
-(./questions/basic/basic_q5.tex [3]
-File: fig/Q_basic5.pdf Graphic file (type pdf)
-<use fig/Q_basic5.pdf>
-) (./questions/basic/basic_q6.tex
-File: fig/Q_basic6.pdf Graphic file (type pdf)
-<use fig/Q_basic6.pdf>
-)
-(./questions/basic/basic_q7.tex) (./questions/basic/basic_q8.tex
-File: fig/Q_basic8_.pdf Graphic file (type pdf)
-<use fig/Q_basic8_.pdf>
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 9.90005pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 7.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/bx/n' will be
+(Font)              scaled to size 5.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(2)/m/it' will be
+(Font)              scaled to size 5.0pt on input line 5.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 6.93004pt on input line 5.
+ [1
 
+]
+File: fig/img2.png Graphic file (type bmp)
+<fig/img2.png>
+) (./questions/basic/basic_q4.tex
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 2
-6.
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 9
+.
 
-[4]) (./questions/basic/basic_q9.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
+) (./questions/basic/basic_q5.tex) (./questions/basic/basic_q6.tex [2])
+(./questions/basic/basic_q7.tex) [3]
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
 [][]
  []
 
 (./questions/bonus/bonus_q1.tex
-File: fig/Q_basic7.pdf Graphic file (type pdf)
-<use fig/Q_basic7.pdf>
-) (./questions/bonus/bonus_q2.tex
-File: fig/Q_bunos_2.pdf Graphic file (type pdf)
-<use fig/Q_bunos_2.pdf>
-) [5]
+File: fig/img4.png Graphic file (type bmp)
+<fig/img4.png>
+File: fig/img5.png Graphic file (type bmp)
+<fig/img5.png>
+ [4]) (./questions/bonus/bonus_q2.tex) [5]
 (./question.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -1730,12 +1704,12 @@ Package rerunfilecheck Info: File `question.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43927 strings out of 474878
- 1045298 string characters out of 5762517
- 1933627 words of memory out of 5000000
- 65073 multiletter control sequences out of 15000+600000
+ 43808 strings out of 474878
+ 1042195 string characters out of 5762517
+ 1937627 words of memory out of 5000000
+ 64975 multiletter control sequences out of 15000+600000
  569388 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,9n,110p,1221b,603s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,8n,110p,1221b,689s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on question.pdf (5 pages).
